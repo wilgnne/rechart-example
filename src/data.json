@@ -1,0 +1,393 @@
+{
+    "DispositivosNaoRealizado": [
+        {
+            "DispositivoId": 29,
+            "DispositivoStatusId": 0,
+            "CodigoDispositivo": "ger-1485",
+            "NomeTipoDispositivo": "Gerador",
+            "Status": 1
+        },
+        {
+            "DispositivoId": 7,
+            "DispositivoStatusId": 0,
+            "CodigoDispositivo": "GER-01",
+            "NomeTipoDispositivo": "Gerador",
+            "Status": 1
+        },
+        {
+            "DispositivoId": 8,
+            "DispositivoStatusId": 0,
+            "CodigoDispositivo": "GER-02",
+            "NomeTipoDispositivo": "Gerador",
+            "Status": 1
+        },
+        {
+            "DispositivoId": 9,
+            "DispositivoStatusId": 0,
+            "CodigoDispositivo": "GER-03",
+            "NomeTipoDispositivo": "Gerador",
+            "Status": 1
+        },
+        {
+            "DispositivoId": 13,
+            "DispositivoStatusId": 0,
+            "CodigoDispositivo": "GER-07",
+            "NomeTipoDispositivo": "Gerador",
+            "Status": 1
+        },
+        {
+            "DispositivoId": 14,
+            "DispositivoStatusId": 0,
+            "CodigoDispositivo": "GER-08",
+            "NomeTipoDispositivo": "Gerador",
+            "Status": 1
+        },
+        {
+            "DispositivoId": 15,
+            "DispositivoStatusId": 0,
+            "CodigoDispositivo": "GER-09",
+            "NomeTipoDispositivo": "Gerador",
+            "Status": 1
+        },
+        {
+            "DispositivoId": 22,
+            "DispositivoStatusId": 0,
+            "CodigoDispositivo": "GER-21",
+            "NomeTipoDispositivo": "Gerador",
+            "Status": 1
+        },
+        {
+            "DispositivoId": 23,
+            "DispositivoStatusId": 0,
+            "CodigoDispositivo": "GER-22",
+            "NomeTipoDispositivo": "Gerador",
+            "Status": 1
+        },
+        {
+            "DispositivoId": 24,
+            "DispositivoStatusId": 0,
+            "CodigoDispositivo": "GER-23",
+            "NomeTipoDispositivo": "Gerador",
+            "Status": 1
+        },
+        {
+            "DispositivoId": 16,
+            "DispositivoStatusId": 0,
+            "CodigoDispositivo": "GER-15",
+            "NomeTipoDispositivo": "Gerador",
+            "Status": 1
+        },
+        {
+            "DispositivoId": 17,
+            "DispositivoStatusId": 0,
+            "CodigoDispositivo": "GER-16",
+            "NomeTipoDispositivo": "Gerador",
+            "Status": 1
+        },
+        {
+            "DispositivoId": 18,
+            "DispositivoStatusId": 0,
+            "CodigoDispositivo": "GER-17",
+            "NomeTipoDispositivo": "Gerador",
+            "Status": 1
+        },
+        {
+            "DispositivoId": 19,
+            "DispositivoStatusId": 0,
+            "CodigoDispositivo": "GER-18",
+            "NomeTipoDispositivo": "Gerador",
+            "Status": 1
+        },
+        {
+            "DispositivoId": 20,
+            "DispositivoStatusId": 0,
+            "CodigoDispositivo": "GER-19",
+            "NomeTipoDispositivo": "Gerador",
+            "Status": 1
+        },
+        {
+            "DispositivoId": 21,
+            "DispositivoStatusId": 0,
+            "CodigoDispositivo": "GER-20",
+            "NomeTipoDispositivo": "Gerador",
+            "Status": 1
+        },
+        {
+            "DispositivoId": 10,
+            "DispositivoStatusId": 0,
+            "CodigoDispositivo": "GER-04",
+            "NomeTipoDispositivo": "Gerador",
+            "Status": 1
+        },
+        {
+            "DispositivoId": 11,
+            "DispositivoStatusId": 0,
+            "CodigoDispositivo": "GER-05",
+            "NomeTipoDispositivo": "Gerador",
+            "Status": 1
+        }
+    ],
+    "DispositivosOk": [
+        {
+            "DispositivoId": 4,
+            "DispositivoStatusId": 17,
+            "CodigoDispositivo": "BEBEDOURO-04",
+            "NomeTipoDispositivo": "Bebedouro",
+            "Status": 2
+        },
+        {
+            "DispositivoId": 6,
+            "DispositivoStatusId": 25,
+            "CodigoDispositivo": "BEBEDOURO-06",
+            "NomeTipoDispositivo": "Bebedouro",
+            "Status": 2
+        },
+        {
+            "DispositivoId": 31,
+            "DispositivoStatusId": 49,
+            "CodigoDispositivo": "Medidor Energia",
+            "NomeTipoDispositivo": "Energia",
+            "Status": 2
+        },
+        {
+            "DispositivoId": 32,
+            "DispositivoStatusId": 39,
+            "CodigoDispositivo": "Medidor Água",
+            "NomeTipoDispositivo": "Água",
+            "Status": 2
+        },
+        {
+            "DispositivoId": 33,
+            "DispositivoStatusId": 59,
+            "CodigoDispositivo": "Medidor Gás",
+            "NomeTipoDispositivo": "Gás",
+            "Status": 2
+        },
+        {
+            "DispositivoId": 1,
+            "DispositivoStatusId": 29,
+            "CodigoDispositivo": "BEBEDOURO-01",
+            "NomeTipoDispositivo": "Bebedouro",
+            "Status": 2
+        },
+        {
+            "DispositivoId": 3,
+            "DispositivoStatusId": 27,
+            "CodigoDispositivo": "BEBEDOURO-03",
+            "NomeTipoDispositivo": "Bebedouro",
+            "Status": 2
+        }
+    ],
+    "DispositivosProblema": [],
+    "DispositivosRevisar": [
+        {
+            "DispositivoId": 5,
+            "DispositivoStatusId": 26,
+            "CodigoDispositivo": "BEBEDOURO-05",
+            "NomeTipoDispositivo": "Bebedouro",
+            "Status": 4
+        }
+    ],
+    "Consumos": [
+        {
+            "CodigoDispositivo": "Medidor Água",
+            "Medicoes": [
+                {
+                    "DataConsumo": "2024-08-07T14:00:00",
+                    "QtdConsumo": 10000
+                },
+                {
+                    "DataConsumo": "2024-08-08T14:00:00",
+                    "QtdConsumo": 10100
+                },
+                {
+                    "DataConsumo": "2024-08-09T14:00:00",
+                    "QtdConsumo": 10220
+                },
+                {
+                    "DataConsumo": "2024-08-10T14:00:00",
+                    "QtdConsumo": 10300
+                },
+                {
+                    "DataConsumo": "2024-08-11T14:00:00",
+                    "QtdConsumo": 10380
+                },
+                {
+                    "DataConsumo": "2024-08-12T14:00:00",
+                    "QtdConsumo": 10450
+                },
+                {
+                    "DataConsumo": "2024-08-13T14:00:00",
+                    "QtdConsumo": 10520
+                },
+                {
+                    "DataConsumo": "2024-08-14T14:00:00",
+                    "QtdConsumo": 10630
+                },
+                {
+                    "DataConsumo": "2024-08-15T14:00:00",
+                    "QtdConsumo": 10720
+                },
+                {
+                    "DataConsumo": "2024-08-16T14:00:00",
+                    "QtdConsumo": 10900
+                }
+            ]
+        },
+        {
+            "CodigoDispositivo": "Medidor Energia",
+            "Medicoes": [
+                {
+                    "DataConsumo": "2024-08-07T14:00:00",
+                    "QtdConsumo": 10000
+                },
+                {
+                    "DataConsumo": "2024-08-08T14:00:00",
+                    "QtdConsumo": 10090
+                },
+                {
+                    "DataConsumo": "2024-08-09T14:00:00",
+                    "QtdConsumo": 10170
+                },
+                {
+                    "DataConsumo": "2024-08-10T14:00:00",
+                    "QtdConsumo": 10260
+                },
+                {
+                    "DataConsumo": "2024-08-11T14:00:00",
+                    "QtdConsumo": 10320
+                },
+                {
+                    "DataConsumo": "2024-08-12T14:00:00",
+                    "QtdConsumo": 10400
+                },
+                {
+                    "DataConsumo": "2024-08-13T14:00:00",
+                    "QtdConsumo": 10490
+                },
+                {
+                    "DataConsumo": "2024-08-14T14:00:00",
+                    "QtdConsumo": 10570
+                },
+                {
+                    "DataConsumo": "2024-08-15T14:00:00",
+                    "QtdConsumo": 10670
+                },
+                {
+                    "DataConsumo": "2024-08-16T14:00:00",
+                    "QtdConsumo": 10790
+                }
+            ]
+        },
+        {
+            "CodigoDispositivo": "Medidor Gás",
+            "Medicoes": [
+                {
+                    "DataConsumo": "2024-08-05T14:00:00",
+                    "QtdConsumo": 10000
+                },
+                {
+                    "DataConsumo": "2024-08-06T14:00:00",
+                    "QtdConsumo": 10100
+                },
+                {
+                    "DataConsumo": "2024-08-07T14:00:00",
+                    "QtdConsumo": 10180
+                },
+                {
+                    "DataConsumo": "2024-08-08T14:00:00",
+                    "QtdConsumo": 10260
+                },
+                {
+                    "DataConsumo": "2024-08-09T14:00:00",
+                    "QtdConsumo": 10340
+                },
+                {
+                    "DataConsumo": "2024-08-10T14:00:00",
+                    "QtdConsumo": 10410
+                },
+                {
+                    "DataConsumo": "2024-08-11T14:00:00",
+                    "QtdConsumo": 10510
+                },
+                {
+                    "DataConsumo": "2024-08-12T14:00:00",
+                    "QtdConsumo": 10600
+                },
+                {
+                    "DataConsumo": "2024-08-13T14:00:00",
+                    "QtdConsumo": 10670
+                },
+                {
+                    "DataConsumo": "2024-08-14T14:00:00",
+                    "QtdConsumo": 10760
+                }
+            ]
+        }
+    ],
+    "Manutencoes": [
+        {
+            "ManutencaoId": 10,
+            "DispositivoId": 13,
+            "CodigoDispositivo": "GER-07",
+            "DescricaoManutencao": "cabos"
+        },
+        {
+            "ManutencaoId": 11,
+            "DispositivoId": 5,
+            "CodigoDispositivo": "BEBEDOURO-05",
+            "DescricaoManutencao": "fiacao"
+        },
+        {
+            "ManutencaoId": 13,
+            "DispositivoId": 11,
+            "CodigoDispositivo": "GER-05",
+            "DescricaoManutencao": "material usado"
+        },
+        {
+            "ManutencaoId": 14,
+            "DispositivoId": 24,
+            "CodigoDispositivo": "GER-23",
+            "DescricaoManutencao": "instalacao dispositvio"
+        },
+        {
+            "ManutencaoId": 18,
+            "DispositivoId": 3,
+            "CodigoDispositivo": "BEBEDOURO-03",
+            "DescricaoManutencao": "tubulacao"
+        },
+        {
+            "ManutencaoId": 19,
+            "DispositivoId": 32,
+            "CodigoDispositivo": "Medidor Água",
+            "DescricaoManutencao": "segunda data da tubulação"
+        }
+    ],
+    "VistoriasMes": [
+        {
+            "Ano": 2024,
+            "Mes": 5,
+            "Quantidade": 8
+        },
+        {
+            "Ano": 2024,
+            "Mes": 7,
+            "Quantidade": 1
+        },
+        {
+            "Ano": 2024,
+            "Mes": 8,
+            "Quantidade": 30
+        }
+    ],
+    "QtdDispositivos": 26,
+    "QtdDispositivosInativos": 0,
+    "QtdDispositivosErroLeitura": 0,
+    "QtdManutencoesEmAberto": 6,
+    "QtdManutencoesAtrasadas": 6,
+    "MaiorDiaAtrasoManutencao": 33,
+    "QtdVistoriasEmAberto": 21,
+    "QtdDispositivosEnvolvidos": 21,
+    "QtdVistoriasAtrasadas": 20,
+    "MaiorDiaAtrasoVistoria": 18
+}
